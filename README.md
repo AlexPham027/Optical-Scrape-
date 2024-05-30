@@ -8,6 +8,8 @@ Google Cloud Console Integration: Employs Google Cloud Console for secure email 
 Email Alerts: Automatically sends email notifications about new product arrivals to keep users informed.
 Data Storage: Stores previously scraped data to compare and identify new products.
 Regular Monitoring: Scheduled to check the website periodically for new products.
+
+
 Technologies Used
 Python: Core programming language used for the script.
 Beautiful Soup: Library for web scraping to parse HTML and extract product information.
